@@ -5,7 +5,7 @@ description: ''
 image: './photo-1454165804606-c3d57bc86b40.avif'
 tags: ["Talk"]
 category: 'Diary'
-draft: true 
+draft: false 
 lang: 'en'
 ---
 
