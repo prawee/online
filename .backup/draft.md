@@ -1,12 +1,13 @@
 ---
-title: Draft Example
-published: 2022-07-01
-tags: [Markdown, Blogging, Demo]
-category: Examples
+title: 1.Artificial Intelligence-Enabled Intelligent Assistant for Personalized and Adaptive Learning in Higher Education
+published: 2025-07-03
+tags: [Artificial Intelligence, Natural Language processing, Large Language Models (LLM), Transformers, GPT]
+category: AI
 draft: true
 ---
 
-# This Article is a Draft
+# Artificial Intelligence-Enabled Intelligent Assistant for
+Personalized and Adaptive Learning in Higher Education
 
 This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
 
