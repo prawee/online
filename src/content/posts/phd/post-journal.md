@@ -5,7 +5,7 @@ description: ''
 image: './photo-1684444605542-93725082d214.avif'
 tags: ['journal', 'PhD']
 category: 'Journal'
-draft: true 
+draft: false 
 lang: 'en'
 ---
 
