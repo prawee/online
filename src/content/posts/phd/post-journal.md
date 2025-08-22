@@ -2,7 +2,7 @@
 title: วารสารที่คาดว่าจะตีพิมพ์
 published: 2025-08-20
 description: ''
-image: ''
+image: './photo-1684444605542-93725082d214.avif'
 tags: ['journal', 'PhD']
 category: 'Journal'
 draft: true 
