@@ -4,7 +4,7 @@ published: 2025-08-19
 description: 'How to delete AWS secret'
 image: './photo-1753122435360-644ac2f9c68a.avif'
 tags: ['aws']
-category: 'aws'
+category: 'AWS'
 draft: false 
 lang: 'en'
 ---
