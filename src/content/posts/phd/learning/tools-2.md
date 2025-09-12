@@ -3,8 +3,8 @@ title: 'Adaptive Learning: The Premise, Promise, and Pitfalls'
 published: 2025-09-02
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: 'th'
 ---

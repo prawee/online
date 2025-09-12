@@ -3,8 +3,8 @@ title: 'The Effectiveness of Intelligent Tutoring Systems in Supporting Students
 published: 2025-09-05
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: 'th'
 ---

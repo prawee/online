@@ -3,8 +3,8 @@ title: 'An open learner model for trainee pilots'
 published: 2025-09-10
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: 'th'
 ---

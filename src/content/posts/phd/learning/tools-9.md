@@ -3,8 +3,8 @@ title: 'Piloting Intelligent Tutoring Systems to Enhance Sectoral Training Progr
 published: 2025-09-09
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: 'th'
 ---

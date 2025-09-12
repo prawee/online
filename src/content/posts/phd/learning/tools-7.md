@@ -3,8 +3,8 @@ title: 'An Adaptive Learning Design Framework / Constructing a Design Framework 
 published: 2025-09-07
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: 'th'
 ---

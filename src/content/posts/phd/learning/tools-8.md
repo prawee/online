@@ -3,8 +3,8 @@ title: 'Stupid Tutoring Systems, Intelligent Humans'
 published: 2025-09-08
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: 'th'
 ---

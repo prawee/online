@@ -3,8 +3,8 @@ title: 'Intelligent Tutoring Systems in Education'
 published: 2025-09-04
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: ''
 ---

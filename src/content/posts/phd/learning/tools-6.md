@@ -3,8 +3,8 @@ title: 'A Systematic Review of AI-driven intelligent tutoring systems'
 published: 2025-09-06
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: ''
 ---

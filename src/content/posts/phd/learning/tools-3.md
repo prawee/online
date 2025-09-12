@@ -3,8 +3,8 @@ title: 'Using an adaptive learning tool to improve student performance and satis
 published: 2025-09-03
 description: ''
 image: ''
-tags: []
-category: 'Research#2'
+tags: [Teaching, Literature Review]
+category: 'Teaching'
 draft: false 
 lang: ''
 ---
