@@ -2,7 +2,7 @@
 title: 'Using an adaptive learning tool to improve student performance and satisfaction in online and face‑to‑face education for a more personalized approach'
 published: 2025-09-03
 description: ''
-image: ''
+image: './city-committed-education-collage-concept.jpg'
 tags: [Teaching, Literature Review]
 category: 'Teaching'
 draft: false 

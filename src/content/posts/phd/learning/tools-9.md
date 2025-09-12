@@ -2,7 +2,7 @@
 title: 'Piloting Intelligent Tutoring Systems to Enhance Sectoral Training Programs: Early Findings, Lessons Learned'
 published: 2025-09-09
 description: ''
-image: ''
+image: './city-committed-education-collage-concept.jpg'
 tags: [Teaching, Literature Review]
 category: 'Teaching'
 draft: false 

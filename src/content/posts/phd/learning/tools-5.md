@@ -2,7 +2,7 @@
 title: 'The Effectiveness of Intelligent Tutoring Systems in Supporting Students with Varying Levels of Programming Experience'
 published: 2025-09-05
 description: ''
-image: ''
+image: './city-committed-education-collage-concept.jpg'
 tags: [Teaching, Literature Review]
 category: 'Teaching'
 draft: false 

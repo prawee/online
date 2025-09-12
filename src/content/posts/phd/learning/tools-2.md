@@ -2,7 +2,7 @@
 title: 'Adaptive Learning: The Premise, Promise, and Pitfalls'
 published: 2025-09-02
 description: ''
-image: ''
+image: './city-committed-education-collage-concept.jpg'
 tags: [Teaching, Literature Review]
 category: 'Teaching'
 draft: false 
