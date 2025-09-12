@@ -1,6 +1,6 @@
 ---
 title: 'An Adaptive Learning Design Framework / Constructing a Design Framework and Pedagogical Approach for Adaptive Learning in Higher Education: A Practitioner’s Perspective'
-published: 2025-09-12
+published: 2025-09-07
 description: ''
 image: ''
 tags: []
