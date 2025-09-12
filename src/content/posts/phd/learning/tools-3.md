@@ -1,10 +1,10 @@
 ---
 title: 'Using an adaptive learning tool to improve student performance and satisfaction in online and face‑to‑face education for a more personalized approach'
-published: 2025-09-12
+published: 2025-09-03
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'Research#2'
 draft: false 
 lang: ''
 ---

@@ -1,5 +1,5 @@
 ---
-title: Adaptive Learning: The Premise, Promise, and Pitfalls — Petr Johanes
+title: 'Adaptive Learning: The Premise, Promise, and Pitfalls'
 published: 2025-09-02
 description: ''
 image: ''

@@ -1,5 +1,5 @@
 ---
-title: Adaptive Learning Systems — Chen, Nian-Shing Chen, Sabine Graf, Gwo-Jen Hwang
+title: Adaptive Learning Systems
 published: 2025-09-01
 description: ''
 image: ''
