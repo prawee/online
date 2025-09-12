@@ -33,4 +33,4 @@ SpringerLink
  - งานวิจัยในอนาคตอาจจะขยาย sample size, ระยะเวลา intervention นานขึ้น, และทดสอบในหลายประเทศ/หลายภาษาเพื่อดูว่า ITS ทำงานได้ดีในหลายบริบท
 
 
- [Reference](../../../../public/pdf/5.pdf)
+ [Reference](https://prawee.online/pdf/5.pdf)
